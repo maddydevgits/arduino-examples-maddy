@@ -22,6 +22,6 @@ Official Repo of my work for Arduino
   <tr>
     <td>3</td>
     <td>Pulse Sensor</td>
-    <td><a href="https://github.com/maddydevgits/arduino-examples-maddy/tree/main/body_temperature_sensor">Code Repo</a></td>
+    <td><a href="https://github.com/maddydevgits/arduino-examples-maddy/tree/main/pulse_sensor">Code Repo</a></td>
   </tr>
 </table>
