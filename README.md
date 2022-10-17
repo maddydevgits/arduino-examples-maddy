@@ -14,4 +14,14 @@ Official Repo of my work for Arduino
     <td>Fingerprint Sensor</td>
     <td><a href="https://github.com/maddydevgits/arduino-examples-maddy/tree/main/fp_sensor">Code Repo</a></td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>Body Temperature Sensor</td>
+    <td><a href="https://github.com/maddydevgits/arduino-examples-maddy/tree/main/body_temperature_sensor">Code Repo</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Pulse Sensor</td>
+    <td><a href="https://github.com/maddydevgits/arduino-examples-maddy/tree/main/body_temperature_sensor">Code Repo</a></td>
+  </tr>
 </table>
