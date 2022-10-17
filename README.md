@@ -12,5 +12,6 @@ Official Repo of my work for Arduino
   <tr>
     <td>1</td>
     <td>Fingerprint Sensor</td>
+    <td><a href="https://github.com/maddydevgits/arduino-examples-maddy/tree/main/fp_sensor">Code Repo</a></td>
   </tr>
 </table>
